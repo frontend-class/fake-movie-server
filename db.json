@@ -2,7 +2,7 @@
   "movies": [
     {
       "id": 1,
-      "thumb": "https://movie-phinf.pstatic.net/20181029_21/1540774701820gU85o_JPEG/movie_image.jpg",
+      "thumb": "https://movie-phinf.pstatic.net/20181029_21/1540774701820gU85o_JPEG/movie_image.jpg?type=n77_110_2",
       "name": "신비한 동물들과 그린델왈드의 범죄",
       "movieRatings": "12",
       "genre": "모험, 가족, 판타지",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "thumb": "https://movie-phinf.pstatic.net/20181031_68/1540952503496fNRsF_JPEG/movie_image.jpg",
+      "thumb": "https://movie-phinf.pstatic.net/20181031_68/1540952503496fNRsF_JPEG/movie_image.jpg?type=n77_110_2",
       "name": "보헤미안 랩소디",
       "movieRatings": "12",
       "genre": "드라마,",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "thumb": "https://movie-phinf.pstatic.net/20181106_289/1541478936071tmadh_JPEG/movie_image.jpg",
+      "thumb": "https://movie-phinf.pstatic.net/20181106_289/1541478936071tmadh_JPEG/movie_image.jpg?type=n77_110_2",
       "name": "완벽한 타인",
       "movieRatings": "15",
       "genre": "드라마, 코미디",
@@ -35,18 +35,18 @@
     },
     {
       "id": 4,
-      "thumb": "https://movie-phinf.pstatic.net/20181023_49/1540269777397VIFnu_JPEG/movie_image.jpg",
-      "name": "로빈슨의 언더워터 어드벤처",
-      "movieRatings": "all",
-      "genre": "애니메이션",
-      "releaseDate": "2018.11.15",
-      "gradePoint": 7.25,
-      "director": "비탈리 무카메지아노브, 막심 볼코브",
-      "actors": ""
+      "thumb": "https://movie-phinf.pstatic.net/20181105_232/1541392865465aVb5V_JPEG/movie_image.jpg?type=n77_110_2",
+      "name": "국가부도의 날",
+      "movieRatings": "12",
+      "genre": "드라마",
+      "releaseDate": "2018.11.28",
+      "gradePoint": 8.83,
+      "director": "최국희",
+      "actors": "김혜수, 유아인, 허준호"
     },
     {
       "id": 5,
-      "thumb": "https://movie-phinf.pstatic.net/20181119_157/15425904764434IQke_JPEG/movie_image.jpg",
+      "thumb": "https://movie-phinf.pstatic.net/20181119_157/15425904764434IQke_JPEG/movie_image.jpg?type=n77_110_2",
       "name": "아쿠아맨",
       "movieRatings": "15",
       "genre": "액션, 모험, SF",
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "thumb": "",
+      "thumb": "https://movie-phinf.pstatic.net/20160624_290/14667572837913SGhw_JPEG/movie_image.jpg?type=n77_110_2",
       "name": "토이 스토리 4",
       "movieRatings": "all",
       "genre": "애니메이션, 모험, 코미디, 가족, 판타지",
